@@ -76,7 +76,7 @@ shinyServer(function(input, output) {
   }
 })
   
-  output$sales <- renderInfoBox({valueBox(tags$p("Total Sales",icon("usd", lib = "glyphicon"),style = "font-size: 40%;"),sum(filtered_data()$Sales),
+  output$sales <- renderInfoBox({valueBox(tags$p("Total Sales",icon("usd", lib = "glyphicon"),style = "font-size: 40%;"),round(sum(filtered_data()$Sales),2),
                                           color="teal")})
   output$orders <- renderInfoBox({valueBox(tags$p("Total Orders",icon("shopping-cart", lib = "glyphicon"),style = "font-size: 40%;"),n_distinct(filtered_data()$`Order ID`),
                                           color="light-blue")})
