@@ -1,5 +1,8 @@
 # 📊 H&M Sales Dashboard – RShiny
 
+<img width="1914" height="981" alt="image" src="https://github.com/user-attachments/assets/0d1457d8-12fa-4b47-b72e-f64acfcad21f" />
+
+
 ## 🚀 Description
 
 Ce projet est une application interactive développée avec RShiny permettant d’analyser les ventes de la marque H&M à travers différents axes (temps, catégorie de produits, régions, modes de livraison…).
