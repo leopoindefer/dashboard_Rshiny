@@ -14,17 +14,13 @@ L’objectif est de mettre en place un outil simple, visuel et personnalisable p
 Filtres interactifs :
 
 - Sélection de la période d’analyse
-
 - Choix de la catégorie de produits
 
 Différents types de visualisations :
 
 - Ventes par mois
-
 - Ventes par sous-catégorie
-
 - Ventes par État
-
 - Répartition par mode de livraison
 
 Indicateurs clés (KPI) dynamiques :
@@ -95,11 +91,8 @@ Visualiser la tendance mensuelle des ventes
 Obtenir instantanément :
 
 - le chiffre d’affaires total
-
 - le nombre de commandes
-
 - le nombre de clients
-
 - le nombre de produits vendus
 
 ## 💡 Améliorations possibles
