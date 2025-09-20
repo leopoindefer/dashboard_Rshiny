@@ -12,8 +12,10 @@ L’objectif est de mettre en place un outil simple, visuel et personnalisable p
 ## ⚙️ Fonctionnalités
 
 Filtres interactifs :
-Sélection de la période d’analyse
-Choix de la catégorie de produits
+
+- Sélection de la période d’analyse
+
+- Choix de la catégorie de produits
 
 Différents types de visualisations :
 
